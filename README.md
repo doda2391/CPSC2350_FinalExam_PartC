@@ -1,1 +1,2 @@
 # CPSC2350_FinalExam_PartC
+https://github.com/doda2391/CPSC2350_FinalExam_PartC/blob/0dc3a55b6cdfdc8913abdd507efc389324f12264/finalExam2022.md
